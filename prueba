@@ -1,0 +1,8 @@
+<style>
+        body {
+            background-image: url('https://i.pinimg.com/originals/28/79/ac/2879accc54c1b22f91f97d7d650ae43f.jpg%27);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+    </style>
